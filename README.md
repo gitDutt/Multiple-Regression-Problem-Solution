@@ -1,5 +1,4 @@
-# Multiple-Regression-Problem-Solution
-Building multiple regression model using SAS
+# Multiple-Regression-Problem- Building multiple regression model using SAS
 
 Problem: A national chain of women’s clothing stores with locations in the large shopping malls
 thinks that it can do a better job of planning more renovations and expansions if it
@@ -20,10 +19,6 @@ conclusions?
 choose? Why?
 
 Solution: 
-1.
-Multiple Regression Model
-Y = B0 + B1X1 + B2X2
-
 1.	Multiple Regression Model
 Y = B0 + B1X1 + B2X2
 <img width="264" alt="image" src="https://user-images.githubusercontent.com/63497057/204067115-d17f6d34-fd0d-489d-a990-287824764f70.png">
